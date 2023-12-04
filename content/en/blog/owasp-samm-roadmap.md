@@ -55,7 +55,7 @@ Within the next few months
 * Mappings
 * OWASP references
 * PDF generation
-* Data model for assessments and benchmark
+* Data model for assessments and benchmarking
 * Migration to new GitHub organization https://github.com/owaspsamm/
 * Roadmap templates
 * Improved quickstart guide

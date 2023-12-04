@@ -1,7 +1,7 @@
 +++
 title = "Stream Guidance"
 description = "Stream Guidance"
-keywords = ["benchmark","what is","questions"]
+keywords = ["benchmarking","what is","questions"]
 +++
 
 ## Guidance per Stream in the model

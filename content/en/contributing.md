@@ -13,9 +13,9 @@ Link icons {{< icon "fas fa-link">}} indicate links to pages on our website wher
 
 * **<a href="#Testimonials">Testimonials</a>**  
 
-* **[Benchmark](/benchmark)</a>**  {{< icon "fas fa-link">}}  
+* **[Benchmarking](/benchmarking)</a>**  {{< icon "fas fa-link">}}  
     How am I doing? What works for similar organizations? Donate SAMM data sets!  
-    Visit our benchmark page.
+    Visit our benchmarking page.
 
 * **<a href="#GitHub">GitHub issues</a>**  
     Read more about how we use GitHub for our content and how you can contribute.
